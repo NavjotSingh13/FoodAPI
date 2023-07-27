@@ -1,7 +1,6 @@
 // RestaurantList is JSON Data for displaying cards
 
 
-const restaurantList = [
     {
       type: "restaurant",
       data: {
@@ -1816,7 +1815,6 @@ const restaurantList = [
         new: true,
       },
       subtype: "basic",
-    },
-  ];
+    };
 
   
